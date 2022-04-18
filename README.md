@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Zoom Vanity Template No. 01
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
